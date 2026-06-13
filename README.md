@@ -43,6 +43,7 @@ Just your team, your map, your mission.
 - Active by choice. Silent by default.
 - Safety first. Privacy always.
 - Built for emergencies. Never monetised because of them.
+- Ethical by design. Private by default.
 - Free forever. No exceptions.
 
 ## Current stage
