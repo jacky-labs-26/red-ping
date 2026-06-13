@@ -2,7 +2,7 @@
 
 *Ping your team. Know they're safe.*
 
-![RED Ping Logo](red_ping_radar_heart_logo.png)
+![RED Ping Logo](red_ping_logo.PNG)
 
 ## What is RED Ping?
 
