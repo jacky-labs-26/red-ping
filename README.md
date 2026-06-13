@@ -1,33 +1,17 @@
 # RED Ping | Mission Locator
 
-*Ping your team. Know they're safe.*
-
 ![RED Ping Logo](red_ping_logo.PNG)
 
 ## What is RED Ping?
 
 RED Ping is a simple mission-mode location tool built for
-humanitarian volunteers.
+humanitarian volunteers. Not born from frustration — born from care.
 
 It helps team members locate each other during active missions
 quickly, safely and without complication.
 
 No tracking outside missions. No data kept after.
 Just your team, your map, your mission.
-
-## Where it comes from
-
-This wasn't born from frustration.
-
-It was born from care.
-
-Joining the Croix-Rouge française as a volunteer and preparing
-for maraudes made one thing clear: when a team splits up at
-night across unfamiliar streets, knowing where your teammates
-are isn't surveillance. It's safety.
-
-Phones and WhatsApp work. Until they don't.
-RED Ping is the backup that shouldn't have to be complicated.
 
 ## How it works
 
