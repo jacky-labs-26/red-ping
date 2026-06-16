@@ -1,6 +1,8 @@
 # RED Ping | Mission Locator
 
-![RED Ping Logo](red_ping_logo.PNG)
+<p align="center">
+  <img src="red_ping_logo.PNG" alt="red_ping Logo" width="300"/>
+</p>
 
 ## What is RED Ping?
 
